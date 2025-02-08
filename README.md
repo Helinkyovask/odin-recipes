@@ -1,2 +1,2 @@
 # odin-recipes
-Part of the Odin project
+This is an excercise of 'The Odin Project'
