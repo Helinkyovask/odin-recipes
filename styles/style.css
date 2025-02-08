@@ -1,0 +1,17 @@
+html {
+    font-family: 'Monaspace Xenon'; /* This font might not be available to reader. Will be added later to project. */
+}
+
+body {
+    /* This section will be updated soon */
+}
+
+.site-header {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+}
+
+.topic-header {
+    font-size: 30px
+}
